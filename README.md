@@ -1,4 +1,7 @@
 # FocoTotal
+👩‍💻 Autora
+
+Kaylane Kimberly
 
 > Plataforma de foco, autocontrole e proteção digital.
 
